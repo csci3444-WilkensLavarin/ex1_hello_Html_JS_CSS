@@ -2,3 +2,4 @@
 Introductionary sample of html, JS and CSS
 
 ## Look at script.js file for intro to JavaScript
+## Wilkens Lavarin has updated this file
